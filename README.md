@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online-Banking-System
 Spring Boot Online Banking System 
 About
@@ -21,3 +22,7 @@ Online banking system detail diagram
 
 ![online banking system detail diagram](https://user-images.githubusercontent.com/34470526/37703353-999023fe-2d1f-11e8-96f6-db40724c5d14.png)
 
+=======
+# online-banking-system
+A java project on online banking system
+>>>>>>> e52e691329ac4e1641b77165517af429d10ac04a
